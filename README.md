@@ -1,4 +1,4 @@
-Here's your corrected `README.md` file with the code block removed from the top and all assistant-specific language removed:
+hello!
 
 ---
 
