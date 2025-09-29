@@ -1,8 +1,10 @@
+Here's your corrected `README.md` file with the code block removed from the top and all assistant-specific language removed:
+
 ---
 
 # 📱 Moto G10 / G10 Power / Lenovo K13 Note Custom ROM
 
-# 🔐 Features
+## 🔐 Features
 
 * ✅ **SELinux**: Enforcing
 * ✅ **Play Store Certified**
