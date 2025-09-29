@@ -1,7 +1,3 @@
-Here's a clean and professional-looking `README.md` file you can use for your GitHub repository, based on the information you provided:
-
----
-
 ````markdown
 # 📱 Moto G10 / G10 Power / Lenovo K13 Note Custom ROM
 
