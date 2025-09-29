@@ -2,7 +2,7 @@
 
 # 📱 Moto G10 / G10 Power / Lenovo K13 Note Custom ROM
 
-## 🔐 Features
+# 🔐 Features
 
 * ✅ **SELinux**: Enforcing
 * ✅ **Play Store Certified**
