@@ -137,8 +137,3 @@
 Maintained by [@Deivid21](https://github.com/Deivid21)
 
 ---
-
-```
-
-Let me know if you'd like it tailored for a specific device or branded with badges (e.g., downloads, license, version).
-```
